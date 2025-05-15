@@ -1,4 +1,5 @@
-# Makefile для QuizRunner
+
+# Makefile for QuizRunner
 
 CXX = g++
 CXXFLAGS = -std=c++17 -Wall -Wextra -Werror
